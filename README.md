@@ -1,1 +1,1 @@
-# speech-to-text-app
+# Image Captioning using Gradio
