@@ -1,8 +1,8 @@
 # Automate Image Captioning
 
-Business scenario on news and media:
-
 A news agency publishes hundreds of articles daily on its website. Each article contains several images relevant to the story. Writing appropriate and descriptive captions for each image manually is a tedious task and might slow down the publication process.
+
+Business scenario on news and media:
 
 In this scenario, your image captioning program can expedite the process:
 
