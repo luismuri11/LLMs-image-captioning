@@ -1,0 +1,6 @@
+Flask
+gradio
+transformers
+torch
+bs4
+pillow
