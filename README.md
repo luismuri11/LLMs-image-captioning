@@ -41,4 +41,4 @@ By integrating this process, the agency not only expedites its publication proce
 
 DEMO:
 
-![Demo](./test_images/main-test.jpg)
+![Demo](./test_images/captioning_demo.png)
