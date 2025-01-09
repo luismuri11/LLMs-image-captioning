@@ -38,3 +38,7 @@ In this scenario, your image captioning program can expedite the process:
   6. Once the captions are approved, they are added to the images in the online article.
 
 By integrating this process, the agency not only expedites its publication process but also ensures all images come with appropriate descriptions, enhancing the accessibility for visually impaired readers, and improving the website's SEO. This way, the agency broadens its reach and engagement with a more diverse audience base.
+
+DEMO:
+
+![Demo](./main-test.jpg)
