@@ -31,4 +31,5 @@ interface = gr.Interface(
     title = "Image Captioning with BLIP",
     description = "Upload an image to generate a caption."
 )
+
 interface.launch()
