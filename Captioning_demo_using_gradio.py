@@ -1,10 +1,10 @@
 import gradio as gr
-from transformers import BlipProcessor, BlipForConditionalGeneration
+from transformers import AutoProcessor, AutoModelForImageTextToText
 from PIL import Image
 
 # Instantiate the model and the processor
-processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
-model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
+processor = AutoProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
+model = AutoModelForImageTextToText.from_pretrained("Salesforce/blip-image-captioning-base")
 
 #Create the function
 def generate_caption(image):
